@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&family=Open+Sans:wght@300&display=swap');
+
+html {
+    scroll-behavior: smooth; /*Não funciona no Safari */
+}
+
+h2{
+    font-size: 4em;
+    font-family: 'Dancing Script', cursive;
+    color: #E98325;
+}
+
+h3{
+    color: #E98325;   
+}
+
+.frase{
+    font-size: 2.5em;
+    color: #813D31;
+    font-family: 'Dancing Script', cursive;  
+}
+
+p{
+    font-size: 1.3em;
+    color: #813D31;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* Cabeçalho */
+.nav-item {
+    margin: 0 15px;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #DDCEB3;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover{
+    color: #E98325;
+}
+
+
+/* Slide */
+.carousel-inner .carousel-item{
+    width: 280vh;
+    height: 80vh;
+}
+
+/* A Ilustre */
+
+#ailustre{
+    background-color: #F5E7D9;
+
+}
+
+element.style {
+    margin-top: 48px;
+}
+
+
+/* Produtos */
+
+
+.setor{
+    background-color: #fff;
+    border-radius: 20px;
+}
+
+.imagemsetor{
+    width: 100px;
+    height: 100px;
+}
+
+.titulo{
+    font-family: 'Dancing Script', cursive;
+    font-size: 2.5em;
+}
+
+.titulo-setor{
+    font-size: 3em;
+    font-family: 'Dancing Script', cursive;
+    color: #E98325;
+}
+
+.produtos{
+    color: white;
+    background-color: #E23548;
+    border-radius: 10px;
+}
+
+#produtos{
+    padding-bottom: 1px solid red ;
+    background-color: #FEDBA2;
+}
+
+/* Delivery */
+
+#delivery img{
+    width: 204vh;
+    height: 80vh;
+}
+
+
+.apps {
+    transition: opacity 0.5s ease;
+  -webkit-transition: opacity 0.5s ease;
+    -moz-transition: opacity 0.5s ease;
+    max-width: 100%;
+    position: relative;
+
+}
+
+.apps:after {
+    content: '\A';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top:0; 
+    left:0;
+    background:rgba(0,0,0,0.4);
+}
+
+.carousel-caption{
+    top: 15%;
+}
+
+#ifood img {
+    width: 45vh;
+    height: 30vh;
+}
+
+#uber img {
+    width: 25vh;
+    height: 20vh;
+}
+
+.carousel-caption h2{
+    color: white;
+}
+
+/* Localização */
+
+#localizacao h1{
+    top: 10px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 6em;
+    color: #EB8F39;
+}
+
+/* Rodapé */
+
+
+footer{
+    background-color: #823E32;
+}
+
+footer h4{
+    color: #FEDBA2;
+}
+
+footer p{
+    font-size: 1em;
+    color: #FEDBA2;
+}
