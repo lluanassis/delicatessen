@@ -1,8 +1,7 @@
 # Ilustre Delicatessen 
+Confira: https://lluanassis.github.io/delicatessen/
 
 # Sobre o projeto
-
-https://github.com/lluanassis/delicatessen.git
 
 Este projeto é um site institucional de uma delicatessen fictícia. Além de pôr em prática os ensinamentos recém adquiridos de HTML, CSS e Bootstrap, tive uma preocupação especial com o design. Concebi um nome e construi a logomarca no Illustrator, busquei a harmonia de tons em toda a página. 
 
