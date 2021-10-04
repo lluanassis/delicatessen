@@ -8,8 +8,7 @@ Este projeto é um site institucional de uma delicatessen fictícia. Além de p�
 
 ## Logo e ícone
 ![Web 1](https://raw.githubusercontent.com/lluanassis/delicatessen/master/images/icone-02.png) <br /> ![Web 2](https://raw.githubusercontent.com/lluanassis/delicatessen/master/images/pao-01.png) <br />
-[Web 3](https://raw.githubusercontent.com/lluanassis/delicatessen/master/images/delicatessen.gif)
-
+![Medium Gif](https://raw.githubusercontent.com/lluanassis/delicatessen/master/images/delicatessen.gif)
 
 
 ## Ferramentas
